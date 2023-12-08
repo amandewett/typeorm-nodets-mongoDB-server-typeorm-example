@@ -11,7 +11,7 @@ npm i -g typeorm
 ## Setup
 - Init typeorm project using below command
 ```sh
-npx typeorm init --name project-name --database mysql
+npx typeorm init --name project-name --database mongodb
 ```
 - Install express, node, typescript, ts-node, tslib as Dev dependencies.
 ```sh
